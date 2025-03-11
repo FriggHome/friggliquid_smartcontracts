@@ -1,0 +1,2 @@
+# friggliquid_smartcontracts
+Ethereum
