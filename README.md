@@ -1,20 +1,18 @@
 # friggliquid_smartcontracts
 
 Frigg Home https://frigghome.ai
-
 for https://friggliquid.app:
 
-- inital friggliquid smartcontract for uniswap v3: proxy 
+2025/08/11
+ 
+https://www.etherscan.io/address/0x719Cf4eC6Eb9084AF96A8746964FB4e9D55ec7a4 / Ethereum 
+    
+https://www.arbiscan.io/address/0x5f4bFa05F1d46D69a920b2c014206273be8043Cf /  Arbitrum One 
 
-Ethereum Mainnet
+https://www.basescan.org/address/0x522302A16cd205a9eebe100906aaaf153aE9bDca / Base
+ 
 
-2025 March 09
 
-https://etherscan.io/tx/0xc460b2a63fccea691e41e2cd068e1491dd0aa9616489b829e64a6e24183c47cb
-
-smartcontract address: 0x6dd93f8b2aff80ad8f65b59a5d6d94eee9ee3699
-
-contract creator address: 0x197A52034320A744d051883f6E119446c1A4f6E9
 
 
 ___
